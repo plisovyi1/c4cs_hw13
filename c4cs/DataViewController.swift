@@ -11,7 +11,7 @@ import UIKit
 class DataViewController: UIViewController {
 
     @IBOutlet weak var dataLabel: UILabel!
-    var dataObject: String = ""
+    var dataObject: String = "Hi c4cs"
 
 
     override func viewDidLoad() {
